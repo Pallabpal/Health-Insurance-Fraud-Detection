@@ -3,6 +3,8 @@ Health Insurance Claim clearance using RandomForestClassifier
 This repository contains a Python implementation of a Random Forest Classifier for detecting health insurance fraud in a given dataset. The Random Forest algorithm is utilized in combination with sampling techniques to address the challenge of imbalanced data. The dataset undergoes preprocessing, including the application of one-hot encoding. The model is developed with 15 and 100 estimators for comparison.
 # Dataset
 The dataset used in this project is specifically designed for health insurance fraud detection. It contains various features related to healthcare claims and whether they are fraudulent or not. The dataset has been preprocessed to ensure its suitability for training the classifier.
+Link to the dataset:
+https://drive.google.com/file/d/1pWj51wZEY0GA_eaEzzpZZQVKqm8ntdk_/view?usp=share_link
 # Sampling Technique
 To address class imbalance in the dataset, a sampling technique has been employed. This technique helps to create a balanced training set, which is essential for the accurate training of the Random Forest Classifier.
 # Data Preprocessing
