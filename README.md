@@ -13,6 +13,5 @@ Before training the model, the dataset undergoes preprocessing steps, including 
 The Random Forest Classifier is developed with an estimator value of 15 and 100 . This configuration has been found to provide a good balance between model complexity and performance.
 # Conclusion
 This project demonstrates the implementation of a Random Forest Classifier for health insurance fraud detection. By utilizing sampling techniques and data preprocessing, the classifier can effectively learn from the provided dataset and make accurate predictions. Feel free to explore the code and dataset to enhance your understanding of health insurance fraud detection using machine learning techniques.
-# Acknowledgement
 
 
